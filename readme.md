@@ -1,7 +1,7 @@
 # 🏠 Self-Hosted Home Server (Kali Linux)
 
 <p align="center">
-  <img src="<img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat" />" />
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=flat" />
   <img src="https://img.shields.io/badge/Deployment-24/7-success" />
   <img src="https://img.shields.io/badge/Access-SSH_Key_Only-critical" />
   <img src="https://img.shields.io/badge/Hardware-Repurposed_Laptop-orange" />
